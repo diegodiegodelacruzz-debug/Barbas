@@ -55,7 +55,7 @@ const images = [
 'Screenshot_20261118-095744.png',
 'Screenshot_20261118-095752.png',
 'Screenshot_20261118-095807.png',
-'Screenshot_20261118-095849.png'
+'Screenshot_20261118-095849.png',
 'IMG-20261118-WA0011.jpg',
 'IMG-20261118-WA0012.jpg',
 'IMG-20261118-WA0013.jpg',
